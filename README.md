@@ -14,3 +14,9 @@ Son programas informáticos que se ejecutan en un servidor web.
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación.
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
+| **Aplicaciones** | **Visto** |
+|--------|:--------:|
+| Nombre | Apellido |
+| Nombre2| Apellido2|
+| Col 3  | alineado |
+| Col 2  | alineado |
