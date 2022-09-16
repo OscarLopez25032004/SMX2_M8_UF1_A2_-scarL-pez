@@ -16,7 +16,7 @@ presentación.
 
 | **Aplicaciones** | **Visto** |
 |--------|:--------:|
-| Google Docs | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.JPG"Tick") |
+| Google Docs | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG"Tick") |
 | Google Slides | Apellido2|
 | Google Sheets  | alineado |
 | Google Calendar  | alineado |
