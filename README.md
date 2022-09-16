@@ -19,6 +19,6 @@ presentación.
 | Google Docs | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
 | Google Slides | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
 | Google Sheets  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
-| Google Calendar  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
+| Google Calendar  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura2.PNG "Tick") |
 |Google Meet  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
 |...  | ... |
