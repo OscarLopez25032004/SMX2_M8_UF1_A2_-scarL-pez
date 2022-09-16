@@ -6,7 +6,6 @@ Practica 2
 Lista ordenada
 1. ¿Qué es una página web?  
 
-
 Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.
 3. ¿Qué es un sitio web?
 Espacio virtual que contiene información de personas o empresas.
