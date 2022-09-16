@@ -23,7 +23,7 @@ presentación.
 |Google Meet  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura3.PNG "Tick") |
 |...  | ... |  
   
-. ¿Qué es  HTML ?  
+6. ¿Qué es  HTML ?  
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.  
 
@@ -40,7 +40,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 </body>
 </html>
 ```
-7. ¿Qué es CSS ?
+7. ¿Qué es CSS ?  
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
-elementos HTML deberían ser mostrados.
+elementos HTML deberían ser mostrados.  
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
