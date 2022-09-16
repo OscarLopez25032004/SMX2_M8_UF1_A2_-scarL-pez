@@ -16,7 +16,9 @@ presentación.
 
 | **Aplicaciones** | **Visto** |
 |--------|:--------:|
-| Nombre | Apellido |
-| Nombre2| Apellido2|
-| Col 3  | alineado |
-| Col 2  | alineado |
+| Google Docs | Apellido |
+| Google Slides | Apellido2|
+| Google Sheets  | alineado |
+| Google Calendar  | alineado |
+|Google Meet  | alineado |
+|...  | ... |
